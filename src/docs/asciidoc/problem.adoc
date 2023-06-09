@@ -1,0 +1,19 @@
+ifndef::snippets[]
+:snippets: ./build/generated-snippets
+endif::[]
+
+== REQUEST
+
+include::{snippets}/problems/http-request.adoc[]
+
+== RESPONSE
+
+include::{snippets}/problems/http-response.adoc[]
+
+== RESPONSE HEADER
+
+include::{snippets}/problems/response-headers.adoc[]
+
+== RESPONSE FIELD
+
+include::{snippets}/problems/response-fields.adoc[]

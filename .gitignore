@@ -37,5 +37,4 @@ out/
 .vscode/
 
 BOOT-INF/
-/src/docs/
 /src/main/resources/static/
